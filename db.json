@@ -1,0 +1,12 @@
+{
+    "products": [
+        {
+            "title": "hodi",
+            "description": "very pretty",
+            "price": 663,
+            "picture": "https://i.pinimg.com/474x/70/eb/0d/70eb0ddce80586a77086f546885ac734.jpg",
+            "type": "up",
+            "id": 3
+        }
+    ]
+}
